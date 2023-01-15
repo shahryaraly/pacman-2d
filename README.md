@@ -9,8 +9,8 @@ This is my first project & will always be an adimiration for me for rest of my p
 Project Made in 2D using Notepad in C# .Net Framework 3.0/3.5
 
 
-### How It Looks Like
-![pacman view 2D](https://github.com/shahryaraly/pacman-2d/blob/main/pacman-view.png?raw=true)
+### How Video Demo Looks Like
+[![pacman view 2D](https://github.com/shahryaraly/pacman-2d/blob/main/pacman-view.png?raw=true)](https://youtu.be/v_FRDrHDkr0)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
